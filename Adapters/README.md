@@ -2,7 +2,7 @@
 
 ## Overview
 
-Adapters enable communication between SAP Integration Suite and external systems by supporting various communication protocols.
+Adapters enable communication between SAP Integration Suite and external systems by supporting various communication protocols
 
 ---
 
